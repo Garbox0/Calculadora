@@ -1,3 +1,2 @@
-# Calculadora
-Calculadora sencilla y funcional
-Mi primer proyecto de muchos.
+# Calculator in Python
+My first project, i hope you like it.
